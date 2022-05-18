@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     font-family: "Open Sans", sans-serif;
-    background-color: rgb(1, 22, 41);
+    background-color: rgb(16 38 58);
 }
 .divisao1{
     width: 375px;
@@ -12,9 +12,11 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 150px;
     padding: 50px;
-    background-color: rgb(37, 37, 133);
+    border-radius: 20px;
+    background-color: rgb(37, 37, 76);
+    margin-bottom: 200px;
 }
 .imagem-principal{
     width: 100%;
@@ -23,7 +25,8 @@
 }
 .imagem-principal img{
     width: 100%;
-    height: 300px;    
+    height: 300px;
+    border-radius: 20px;   
 }
 .titulo{
     color: aliceblue;
@@ -55,13 +58,17 @@ p{
     margin-top: 50px;
     display: flex;
     align-items: center;
-    
 }
 .divisao3 img{
-    margin-right: 5px;
+    margin-right: 20px;
     width: 50px;
     height: 50px;
+    border: 3px solid white;
+    border-radius: 50%;
 }
 .span3{
     color: rgb(120, 120, 120);
+}
+.span4{
+    color:aliceblue
 }
