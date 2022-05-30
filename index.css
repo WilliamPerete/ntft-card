@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     font-family: "Open Sans", sans-serif;
-    background-color: rgb(16 38 58);
+    background-color: rgb(220, 158, 188);
 }
 .divisao1{
     width: 375px;
@@ -15,7 +15,7 @@
     margin-top: 150px;
     padding: 50px;
     border-radius: 20px;
-    background-color: rgb(37, 37, 76);
+    background-color: rgb(94, 19, 100);
     margin-bottom: 200px;
 }
 .imagem-principal{
@@ -29,10 +29,10 @@
     border-radius: 20px;   
 }
 .titulo{
-    color: aliceblue;
+    color: rgb(255, 255, 255);
 }
 p{
-    color: rgb(120, 120, 120);
+    color: rgb(255, 255, 255);
 }
 .divisao2{
     width: 100%;
